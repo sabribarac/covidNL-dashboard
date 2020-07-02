@@ -1,0 +1,1 @@
+Sitemap: https://sabribarac.github.io/covidNL-dashboard/sitemap.xml
